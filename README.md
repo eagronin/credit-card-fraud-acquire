@@ -1,6 +1,6 @@
 # Data Acquisition
 
-This section describes the fraud_data.csv dataset and imports it for the analysis of detecting fraud in credit card transactions.  In the subsequent analysis we train several models and evaluate how effectively they predict instances of fraud.  This project focuses on selecting appropriate model evaluation metrics when classes are imbalanced.
+This section describes the fraud_data.csv dataset and imports it to analyze the incidence of fraud in credit card transactions.  In the subsequent analysis we train several models and evaluate how effectively they predict instances of fraud.  This project focuses on selecting the appropriate model evaluation metrics when classes are imbalanced.
 
 Data preparation for the analysis is described in the [next section](https://eagronin.github.io/credit-card-fraud-prepare/).
 
