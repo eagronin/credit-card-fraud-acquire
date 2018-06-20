@@ -1,6 +1,6 @@
 # Contact
 
-[eagronin@gmail.com](eagronin@gmail.com) \| [https://www.linkedin.com/in/eagronin](https://www.linkedin.com/in/eagronin) \| [https://eagronin.github.io/portfolio](https://eagronin.github.io/portfolio)
+eagronin@gmail.com \| [https://www.linkedin.com/in/eagronin](https://www.linkedin.com/in/eagronin) \| [https://eagronin.github.io/portfolio](https://eagronin.github.io/portfolio)
 
 # Data Acquisition
 
