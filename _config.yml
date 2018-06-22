@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 author: EA
 title: Credit Card Fraud Detection and Model Evaluation
 description: Based on assignments from Applied Machine Learning in Python by University of Michigan on Coursera
+show_downloads: true
