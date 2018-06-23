@@ -1,6 +1,6 @@
 # Data Acquisition
 
-# Overview
+## Overview
 
 This section describes the fraud_data.csv dataset and imports it for further processing and analysis of the incidence of fraud in credit card transactions.  This project focuses on selecting the appropriate model evaluation metrics when classes are imbalanced.
 
@@ -8,7 +8,7 @@ Data preparation for the analysis is described in the [next section](https://eag
 
 This project is based on assignments from Applied Machine Learning in Python by University of Michigan on Coursera.
 
-# Data
+## Data
 
 The dataset fraud_data.csv was downloaded from the Coursera website.  Each row in fraud_data.csv corresponds to a credit card transaction. Features include confidential variables V1 through V28 as well as Amount which is the amount of the transaction.
 
