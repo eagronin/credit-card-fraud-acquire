@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-author: EA
+# author: EA
 title: Credit Card Fraud Detection and Model Evaluation
 description: Eugene Agronin, Ph.D. | eagronin@gmail.com
-show_downloads: true
+# show_downloads: true
 github:
   home_url: https://eagronin.github.io/portfolio/
   tar_url: https://www.linkedin.com/in/eagronin
